@@ -6,17 +6,25 @@ Nox is a communication platform designed for educational insitutions. Targeted a
 
 1) Head on over to the Nox website: https://csc398dev.utm.utoronto.ca
 
-2) Hover over and click "Professor Login" on the top right corner. 
+2) Click "Login" on the top right corner. 
 
-![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/Nox-picn.PNG "Nox")
+![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Desktop_home.png "Nox desktop home")
 
-3) Easily add a new session or analyze your past sessions. 
+3) Login using your utorID via secured authenticator. 
 
-<img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/Profpic2.PNG" width="400" height="300" ref="Create Session" />
+![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Desktop_login.png "Nox professor login")
 
-4) Write the code on the board, say it outload or share with all the students so they can connect to your session!
+4) Easily add a new session or analyze your past sessions. 
 
-![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/Profpic3.PNG "Dashboard")
+<img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Prof_sessions.png" width="400" height="300" ref="Nox create session" />
+
+5) Write the code on the board, say it outload or share with all the students so they can connect to your session!
+
+![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Prof_dashboard.png "Nox professor dashboard")
+
+6) Start a poll!
+
+![alt text](https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Prof_poll.png "Nox professor poll")
 
 Recommended Usage: Teachers should occasionally tell students to ask questions using the app, and then teachers should respond to those questions.
 
@@ -25,14 +33,13 @@ Recommended Usage: Teachers should occasionally tell students to ask questions u
 1) Head on over to the Nox website: https://csc398dev.utm.utoronto.ca
 
 2) Enter the session code provided by your teacher. 
+<img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Mobile_login.png" width="300" height="600" /> 
 
-<p float="left">
-  <img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/S1.jpg" width="300" height="600" /> 
-  
-  <img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/S2.jpg" width="300" height="600" />
-</p>
-                                                                                                        
-3) Rate how you feel about the lecture as you learn, and ask question instantaneously!
+3) Ask questions or upvote questions asked by your classmates by clicking on them!
+<img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Mobile_dashboard.png" width="300" height="600" />
+
+4) Participate in polls!
+<img src="https://github.com/ShoaibAhmadKhan/Nox/blob/master/pictures/v2/Mobile_poll.png" width="300" height="600" />
 
 # User Guide for Developers
 

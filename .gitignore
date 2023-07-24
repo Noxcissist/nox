@@ -15,4 +15,4 @@ client/build/
 #vsCode
 .vs*
 .vscode*
-
+.DS_Store
